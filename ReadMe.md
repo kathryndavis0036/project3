@@ -1,8 +1,8 @@
-# Project Title
+# Analyzing Sports Across the United States
 
 ## Overview
 
-This project involves scraping sponsorship revenue data of major sports leagues in the United States from a web page, processing it using Python libraries, and performing data analysis on sports participation statistics. The code is divided into three main sections:
+This project involved scraping sponsorship revenue data of major sports leagues in the United States from a web page. We processed it using Python libraries, and performed data analysis on various sports participation statistics. The code was divided into three main sections:
 
 1. Web scraping and data extraction from a webpage.
 2. Analysis of sports participation statistics from a CSV file.
@@ -10,12 +10,8 @@ This project involves scraping sponsorship revenue data of major sports leagues 
 
 ## Requirements
 
-To run this project, you will need to have the following Python libraries installed:
+To run this project, we used the following Python libraries:
 - `requests`
 - `beautifulsoup4`
 - `pandas`
 - `matplotlib`
-
-You can install them using pip:
-```sh
-pip install requests beautifulsoup4 pandas matplotlib
