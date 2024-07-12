@@ -6,7 +6,7 @@ This project involved scraping revenue data of major sports leagues in the Unite
 
 The code was divided into three main sections:
 
-1. Web scraping and data extraction from a webpage/
+1. Web scraping and data extraction from a webpage.
 2. Analysis of sports participation statistics from a CSV file.
 3. Calculation of top sports participation statistics for boys and girls per state.
 
