@@ -17,3 +17,10 @@ To run this project, we used the following Python libraries:
 - `beautifulsoup4`
 - `pandas`
 - `matplotlib`
+
+## Consent and Privacy:
+Ensure that the data we scraped did not include personally identifiable information.
+Purpose and Use of Data:
+Be clear about the purpose of our project and how the data will be used.
+Ensure that the data was used in a way that benefits the community and does not cause harm.
+![image](https://github.com/user-attachments/assets/9671a8bd-fd45-44b9-8de3-05a04e9967fa)
